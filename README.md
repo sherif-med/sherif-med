@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sherif-med?cardType=level&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
+
+- 🔭 I’m currently working on Computer vision and Deep learning projects.
+- 🌱 I’m currently learning Graph ML and Topological deep learning.
+- ⚡ Field of interest: I like projects related to geospatial intelligence.
+
 <!--
 **sherif-med/sherif-med** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
